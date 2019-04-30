@@ -1,6 +1,9 @@
 
 
-p {
-    font-size: 12px;
+span{
     color: blue;
+}
+
+span{
+    color: red;
 }
