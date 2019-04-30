@@ -1,10 +1,4 @@
-p{
-    color: red !important;
-}
 
-
-
-#main-content{
+#all-articles h2 + p{
     color: green;
 }
-
