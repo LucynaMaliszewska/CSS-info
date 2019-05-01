@@ -1,12 +1,12 @@
 
-span[class~="deck"]{
-    color: purple;
+article{
+    font-size: 16px;
 }
 
-div[id]{
-    background: grey;
+article h2{
+    font-size: 3em;
 }
 
-a[href$="pdf"]{
-    color: green;
+article p{
+    font-size: 80%;
 }
